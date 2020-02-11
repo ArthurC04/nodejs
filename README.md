@@ -1,11 +1,8 @@
 # Nodejs
 Meu primeiro Projeto usando NodeJS
 
-# Nesse Projeto foi utilizado:
-EXPRESS,
-DOCKER--Rodando a DB,
-MONGODB,
-MONGOOSE,
-NODEMON,
+## 🚀 Tecnologias
+Esse projeto foi desenvolvido com a seguinte tecnologia:
+[**Node.js**](https://nodejs.org/en/).
 
 module.exports = primeiroprojetonodejs;
